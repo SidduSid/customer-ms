@@ -1,0 +1,16 @@
+com\maveric\bankapp\model\User.class
+com\maveric\bankapp\services\UserServiceImpl.class
+com\maveric\bankapp\repository\UserRepository.class
+com\maveric\bankapp\services\UserService.class
+com\maveric\bankapp\controller\AppController.class
+com\maveric\bankapp\CustomersApplication.class
+com\maveric\bankapp\exceptions\BadRequestException.class
+com\maveric\bankapp\exceptions\ResourceNotFoundException.class
+com\maveric\bankapp\model\Gender.class
+com\maveric\bankapp\exceptions\ErrorDetails.class
+com\maveric\bankapp\controller\UsersApiController.class
+com\maveric\bankapp\validation\ValidPhoneNumber.class
+com\maveric\bankapp\config\JpaConfiguration.class
+com\maveric\bankapp\exceptions\GlobalExceptionHandler.class
+com\maveric\bankapp\validation\PhoneNumberConstraintValidator.class
+com\maveric\bankapp\exceptions\ConflictException.class
