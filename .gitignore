@@ -1,0 +1,36 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.classpath
+.factorypath
+.project
+.settings
+.idea
+*.iml
+
+
+### Ecplise Patch ###
+# Ecplise Core
+.project
+
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package files #
+.jar
+.war
+.nar
+.ear
+.zip
+.tar.gz
+.rar
+
+### Maven ###
+target/
+.mvn/timings.properties
+.mvn/wrapper/maven-wrapper.jar
